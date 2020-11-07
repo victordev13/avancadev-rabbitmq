@@ -1,5 +1,5 @@
 # Desafio 02 - AvançaDEV
-Utilizando o RabbitMQ
+Utilizando filas para comunicação de microsserviços com o RabbitMQ
 ## Response: Processed
 ![Processed](https://user-images.githubusercontent.com/45896324/98453055-ccec0280-2133-11eb-8106-70d83df3778e.png)
 
